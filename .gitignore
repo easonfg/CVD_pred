@@ -1,0 +1,10 @@
+*.pptx
+*.csv
+*.txt
+*.jpeg
+*.Rproj
+*.xlsx
+*.p
+*.pkl
+*.tar.gz
+RS_*

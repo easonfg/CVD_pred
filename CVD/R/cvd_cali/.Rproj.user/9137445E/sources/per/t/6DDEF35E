@@ -1,0 +1,25 @@
+{
+    "id": "6DDEF35E",
+    "path": "/opt/home/buckcenter.org/hhuang/DeepSurv/CVD/R/cvd_cali/cali_pipe_standardized01.R",
+    "project_path": "cali_pipe_standardized01.R",
+    "type": "r_source",
+    "hash": "2699209483",
+    "contents": "",
+    "dirty": false,
+    "created": 1618799336791.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "94,58",
+        "scrollLine": "77",
+        "marks": "<:86,2\n>:88,2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1618806922,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618806922749,
+    "read_only": false,
+    "read_only_alternatives": []
+}

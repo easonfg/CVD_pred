@@ -1,0 +1,26 @@
+{
+    "id": "B95564F3",
+    "path": "/opt/home/buckcenter.org/hhuang/DeepSurv/composite/R/Composite_cali/calibration_calc.R",
+    "project_path": "calibration_calc.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1617841422397.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "425,4",
+        "scrollLine": "0",
+        "marks": "<:411,4\n>:422,4"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1618789830,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618789830350,
+    "read_only": false,
+    "read_only_alternatives": []
+}
